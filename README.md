@@ -11,6 +11,7 @@ python train.py
 ```
 
 Press Q key to increase frames speed
+
 Press W key to return normal frames speed
 
 

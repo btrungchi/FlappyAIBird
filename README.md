@@ -4,7 +4,7 @@ Learning to play FlappyBird using the Genetic Algorithm on a Neural Network
 <img src="./images/scoredemo.png">
 
 ## Dependencies
-Python 2.7 and please `pip install` the following packages:
+Python 2.7 and please `pip install` the following package:
 - `pygame`
 
 ## How to Run?
